@@ -1,4 +1,4 @@
-FROM lscr.io/linuxserver/code-server:latest
+FROM lscr.io/linuxserver/code-server:4.109.2
 
 USER root
 
